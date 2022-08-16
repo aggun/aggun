@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aggun?tab=repositories](https://github.com/aggun?tab=repositories)
 
-- 💬 Ask me about **C#, HTML, CSS, RabbitMQ, API**
+- 💬 Ask me about **C#, HTML, CSS, API**
 
 - 📫 How to reach me **nebil.aggun@gmail.com**
 
