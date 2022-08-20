@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nebil Ağgün</h1>
 <h3 align="center">I love software development and computer sciences</h3>
+<h4 align="center">I'm Trying and will never give up</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggun&label=Profile%20views&color=0e75b6&style=flat" alt="aggun" /> </p>
 
