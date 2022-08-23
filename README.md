@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aggun" alt="aggun" /></a> </p>
 
-- 🔭 I’m currently working on **Microservice, API and React,**
+- 🔭 I’m currently working on **Microservice, API and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aggun?tab=repositories](https://github.com/aggun?tab=repositories)
 
